@@ -12,6 +12,9 @@ public class Movement : MonoBehaviour
     void Start()
     {
         moveSpeed = 1f;
+
+        //Hides cursor in game mode
+        Cursor.lockState = CursorLockMode.Locked;
     }
 
     // Update is called once per frame
