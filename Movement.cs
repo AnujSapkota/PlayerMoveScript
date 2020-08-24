@@ -1,3 +1,5 @@
+//Simple Script By AS studios for making games.
+
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
